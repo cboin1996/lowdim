@@ -1,0 +1,4 @@
+
+# ignore these directories
+/venv
+.ipynb_checkpoints/ 
